@@ -1,0 +1,11 @@
+age,experience,education_level,department,salary
+22,1,Bachelors,HR,25000
+25,2,Masters,IT,32000
+28,3,Bachelors,Finance,40000
+30,5,Masters,IT,45000
+35,7,PhD,R&D,60000
+40,10,Masters,Finance,70000
+45,15,PhD,HR,85000
+50,20,Bachelors,R&D,90000
+55,25,PhD,IT,105000
+60,30,Masters,Finance,120000
