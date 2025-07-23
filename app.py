@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1SAK6NwY8TyACDQswpEBEPbeZqhzFYBmB
 """
 
-!pip install streamlit
+
 
 !pip install pyngrok pandas scikit-learn matplotlib seaborn
 
